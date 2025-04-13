@@ -1,4 +1,4 @@
 # bhavani-demo
 a new demo
 
-Author-BhavaniBammidi
+Author-BhavaniBammidi(IIIT College)
